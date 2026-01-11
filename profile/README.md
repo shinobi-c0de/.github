@@ -29,4 +29,4 @@ Shinobi Code is a VSCode Extension, which helps you to code using Ninjutsu from 
 
 ## Screenshots
 
-![Shinobi Code Cover](./docs/public/cover.png "Cover")
+![Shinobi Code Cover](./cover.png "Cover")
