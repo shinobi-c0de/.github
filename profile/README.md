@@ -17,9 +17,9 @@ Shinobi Code is a VSCode Extension, which helps you to code using Ninjutsu from 
 
 ## Repositories
 
-[**Docs Site**](https://github.com/shinobi-c0de/shinobi-code) - This repo, documentation site for Shinobi Code project. Written using RSPress
+[**Docs Site**](https://github.com/shinobi-c0de/shinobi-code-docs) - This repo, documentation site for Shinobi Code project. Written using Starlight
 
-[**Web App**](https://github.com/shinobi-c0de/shinobi-code-web) - Shinobi Code Web App, written in Typescript
+[**Web App**](https://github.com/shinobi-c0de/shinobi-code-app) - Shinobi Code Web App, written in Typescript
 
 [**API**](https://github.com/shinobi-c0de/shinobi-code-api) - Shinobi Code API, written in Rust
 
@@ -29,4 +29,4 @@ Shinobi Code is a VSCode Extension, which helps you to code using Ninjutsu from 
 
 ## Screenshots
 
-<!-- ![Shinobi Code Cover](./docs/public/cover.png "Cover") -->
+![Shinobi Code Cover](./docs/public/cover.png "Cover")
